@@ -1,0 +1,29 @@
+Este sistema é um painel de administração (ou painel de controle) projetado para auxiliar na gestão de uma instituição de ensino. Ele oferece funcionalidades que permitem o controle e a administração de informações relacionadas a alunos, disciplinas, professores, biblioteca e aspectos financeiros da instituição. Abaixo estão algumas das principais características e funcionalidades desse sistema:
+
+1. Página de Login: O sistema inicia com uma página de login, onde os usuários autorizados podem fazer login com um endereço de e-mail e senha.
+
+2. Controle de Acesso: Após o login bem-sucedido, os usuários têm acesso a diferentes seções do painel.
+
+3. Cadastro de Alunos: Permite o cadastro de informações de alunos, incluindo nome e idade.
+
+4. Pesquisa de Alunos: Fornece uma função de pesquisa para localizar informações sobre alunos já cadastrados no sistema.
+
+5. Exclusão de Alunos: Permite a exclusão de registros de alunos, caso necessário.
+
+6. Atualização de Alunos: Permite a edição de informações de alunos, como nome e idade.
+
+7. Cadastro de Disciplinas: Oferece a capacidade de cadastrar informações sobre as disciplinas oferecidas, incluindo nome e carga horária.
+
+8. Cadastro de Professores: Permite o registro de informações de professores, incluindo nome e outros detalhes.
+
+9. Controle de Biblioteca: Oferece recursos para o cadastramento de livros, autores e outras informações relacionadas à biblioteca da instituição.
+
+10. Gestão Financeira: Possibilita o controle de informações financeiras, incluindo o status de inadimplência dos alunos e os valores em atraso.
+
+11. Página de Saída: Os usuários podem fazer logout do sistema a partir do painel.
+
+12. Navegação Simples: O sistema fornece uma navegação simples e intuitiva, com links para diferentes seções do painel.
+
+13. Design Responsivo: O sistema é projetado para funcionar em dispositivos com diferentes tamanhos de tela, oferecendo uma experiência consistente.
+
+14. Segurança: O acesso ao sistema é protegido por meio de login e senha, garantindo a segurança das informações armazenadas no sistema.

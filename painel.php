@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Bem vindo!</h1>
+    <h1>Painel Escolar</h1>
     
     <a href="pagina_cadastro_alunos.html">
         <button>Alunos</button></a>
