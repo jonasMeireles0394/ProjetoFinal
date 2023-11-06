@@ -1,3 +1,15 @@
+================================
+USUÁRIOS PARA TESTES
+E-mail: Teste1@gmail.com 
+Senha: 12345
+
+E-mail: Teste2@gmail.com 
+Senha: 123456
+
+E-mail: Teste3@gmail.com 
+Senha: 12345678
+================================
+
 Este sistema é um painel de administração (ou painel de controle) projetado para auxiliar na gestão de uma instituição de ensino. Ele oferece funcionalidades que permitem o controle e a administração de informações relacionadas a alunos, disciplinas, professores, biblioteca e aspectos financeiros da instituição. Abaixo estão algumas das principais características e funcionalidades desse sistema:
 
 1. Página de Login: O sistema inicia com uma página de login, onde os usuários autorizados podem fazer login com um endereço de e-mail e senha.
