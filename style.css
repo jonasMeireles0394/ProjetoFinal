@@ -15,122 +15,42 @@ h1 {
     margin-bottom: 20px;
 }
 
-a {
-    text-decoration: none;
-    color: #fff;
-}
-
-button {
-    background-color: #0074D9;
-    color: #fff;
-    border: none;
-    border-radius: 3px;
-    padding: 10px 20px;
-    margin: 10px 0;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
-
-p {
-    margin-top: 20px;
-}
-
-a.logout-link {
-    color: #0074D9;
-    text-decoration: none;
-    margin-top: 20px;
-}
-
-a.logout-link:hover {
-    text-decoration: underline;
-}
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-}
-
 form {
-    margin-bottom: 20px;
-}
-
-button {
-    background-color: #0074D9;
-    color: #fff;
-    border: none;
-    border-radius: 3px;
-    padding: 10px 20px;
-    margin: 10px 0;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
-
-p {
-    margin-top: 20px;
-}
-
-a {
-    color: #0074D9;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: wrap;
     justify-content: center;
-    height: 100vh;
+    max-width: 300px; /* Adjust as needed */
+    margin: 0 auto;
 }
 
-form {
-    margin-bottom: 20px;
+form p {
+    width: 100%;
+    margin: 10px;
 }
 
-button {
-    background-color: #0074D9;
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #f0f0f0;
     color: #fff;
     border: none;
     border-radius: 3px;
-    padding: 10px 20px;
-    margin: 10px 0;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color ease 0.3s;
 }
 
-button:hover {
-    background-color: #0056b3;
-}
-
-p {
-    margin-top: 20px;
-}
-
-a {
-    color: #0074D9;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
+form button:hover {
+    background-color: #f0f0f0;
 }

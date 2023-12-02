@@ -25,6 +25,9 @@
     <a href="pagina_financeiro.html">
         <button>Financeiro</button></a>
 
+    <a href="usuario.html">
+        <button>Usuários</button></a>
+
     <p>
         <a href="logout.php">Sair</a>
     </p>
